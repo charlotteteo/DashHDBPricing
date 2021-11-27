@@ -15,5 +15,5 @@ https://data.gov.sg/dataset/resale-flat-prices
 ###  3. Data Table with Filter/Sorting features 
 <img width="1439" alt="Screenshot 2021-11-27 at 12 04 05 PM" src="https://user-images.githubusercontent.com/81745684/143667416-ef701d3b-376b-4b9c-a5a8-df78e8b542df.png">
 
-###  4. Dynamic Tree Map Representation based on Data Table
+###  4. Dynamic Tree Map Visualisation based on Data Table
 <img width="1438" alt="Screenshot 2021-11-27 at 12 05 38 PM" src="https://user-images.githubusercontent.com/81745684/143667451-5f552d13-77b7-4603-b68f-b068d04b86dd.png">
