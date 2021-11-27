@@ -1,11 +1,11 @@
 # HDB Resale Pricing Analysis
-##Introduction
+## Introduction
 Through the use of Python and Dash (Plotly), this project seeks to provide the data visualisation of HDB prices from 2017 onwards in a dashboard. 
 
 ## Data Source:
 https://data.gov.sg/dataset/resale-flat-prices
 
-#Features
+## Features
 1. Dropdown Feature of HDB types - Price over Time Graph
 <img width="1438" alt="Screenshot 2021-11-27 at 12 02 02 PM" src="https://user-images.githubusercontent.com/81745684/143667392-811c0f9e-8a7f-4274-bdf9-a4161f7be85d.png">
 2. Singapore Map with Bubble Scatter Plot representing each town's average pricing of HDBs
